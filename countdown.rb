@@ -1,5 +1,8 @@
 #write your code here
 
+
+
+def countdown
 loop do
   counter -= 1
   puts "#{number} SECOND(S)!"
